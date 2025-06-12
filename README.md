@@ -261,6 +261,16 @@ TOP_K_DEFAULT=5
 ✅ **Cross-platform compatibility** (Windows optimized)  
 ✅ **Production-ready reliability** with error handling  
 
+
+## 📸 Sample Output
+
+ ![Home](home.png)
+ ![Output](search.png)
+ ![Input](author.png)
+ ![Output](tag.png)
+ 
+
+
 ## 🚨 Troubleshooting
 
 ### **Common Issues & Solutions:**
